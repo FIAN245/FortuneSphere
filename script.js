@@ -2,14 +2,19 @@ const sphere = document.getElementById('sphere');
 const quote = document.getElementById('quote');
 
 const quotes = [
-  "Believe in yourself!",
-  "Every day is a new beginning.",
-  "Good things take time.",
-  "Happiness is homemade.",
-  "Courage is not the absence of fear.",
-  "Adventure awaits those who seek it.",
-  "Small steps can lead to big changes.",
-  "Fortune favors the brave."
+ "Percayalah pada dirimu sendiri.",
+  "Setiap hari adalah awal yang baru.",
+  "Hal baik membutuhkan waktu.",
+  "Kebahagiaan berawal dari hati.",
+  "Keberanian bukanlah ketiadaan rasa takut.",
+  "Petualangan menanti mereka yang berani.",
+  "Langkah kecil bisa membawa perubahan besar.",
+  "Keberuntungan berpihak pada yang berusaha.",
+  "Kesabaran adalah kunci dari segalanya.",
+  "Masa depanmu ditentukan oleh apa yang kau lakukan hari ini.",
+  "YNTKTS.",
+  "Hdp Jkw.",
+  "Jadiginile."
 ];
 
 sphere.addEventListener('click', () => {
